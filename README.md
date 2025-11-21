@@ -74,3 +74,27 @@ spamvision/
 ├── ZohoMailbox.png
 ├── NotificationDetected.jpg
 └── README.md
+```
+---
+
+## 📸 Screenshots
+![Zoho Mailbox](https://github.com/vaishnaviteja05/SmartVision-A-smart-email-classifier/blob/main/ZohoMailbox.png?raw=true)
+![Notification Detected](https://github.com/vaishnaviteja05/SmartVision-A-smart-email-classifier/blob/main/NotificationDetected%20.jpg?raw=true)
+
+---
+
+## 📂 Installation
+
+### Clone the repository
+```bash
+git clone https://github.com/vaishnaviteja05/SmartVision-A-smart-email-classifier.git
+cd spam-vision
+```
+### Install Dependencies 
+```bash
+pip install -r requirements.txt
+```
+### Run the application
+```bash
+python spamvision_monitor.py
+```
