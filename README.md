@@ -78,8 +78,9 @@ spamvision/
 ---
 
 ## 📸 Screenshots
-![Zoho Mailbox](https://github.com/vaishnaviteja05/SmartVision-A-smart-email-classifier/blob/main/ZohoMailbox.png?raw=true)
-![Notification Detected](https://github.com/vaishnaviteja05/SmartVision-A-smart-email-classifier/blob/main/NotificationDetected.jpg?raw=true)
+![Zoho Mailbox](https://raw.githubusercontent.com/vaishnaviteja05/SmartVision-A-smart-email-classifier/main/media/zoho_mailbox.png)
+
+![Notification Detected](https://raw.githubusercontent.com/vaishnaviteja05/SmartVision-A-smart-email-classifier/main/media/notification_detected.png)
 
 ---
 
